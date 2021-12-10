@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://ridopurnomo86.github.io/Recipe-Page-Challange/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ridopurnomo86/Recipe-Page-Challange">
       Solution
     </a>
     <span> | </span>
